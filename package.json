@@ -1,0 +1,10 @@
+{
+  "name": "cf-template-websocketserver",
+  "version": "1.0.0",
+  "description": "Implementing a WebSocket Server in HarperDB Custom Functions",
+  "author": "kevin@harperdb.io",
+  "type": "module",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
